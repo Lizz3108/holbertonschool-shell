@@ -1,5 +1,6 @@
 # Shell Basic Commands
-* Task 0 Current working directory **pwd**
+###### Each script execute a basic command from the shell. 
+* Task 0 Print current working directory **pwd**
 * Task 1 Display the contents list **ls**
 * Task 2 User home directory **cd**
 * Task 3 List in long format **ls -l**
@@ -17,3 +18,16 @@
 * Task 15 Move all files beginning with a specifycation to another directory **mv [[:upper:]]' /tmp/u**
 * Task 16 Delete files that end the same **rm -r '~**
 * Task 17 Create multiple directory **mkdir -p welcome/to/school**
+
+#### Resources:
+This are some of the resources that help me with the understanding and completion of the project. You can also use man page for a direct command search.
+
+[What Is "The Shell"?](http://linuxcommand.org/lc3_lts0010.php)
+
+[Navigation](https://intranet.hbtn.io/rltoken/fMDkg3TKjANJSPTROMQSpA)
+
+[Looking Around](http://linuxcommand.org/lc3_lts0030.php)
+
+[Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
+
+Lizbeth Garcia Lebron (Creator)
