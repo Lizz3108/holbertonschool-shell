@@ -1,5 +1,5 @@
 # Shell Basic Commands
-###### Each script execute a basic command from the shell. 
+Each file here is a script that execute a basic command from the shell. 
 * Task 0 Print current working directory **pwd**
 * Task 1 Display the contents list **ls**
 * Task 2 User home directory **cd**
