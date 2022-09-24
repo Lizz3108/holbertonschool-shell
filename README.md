@@ -16,3 +16,5 @@ This resouces are from the folder basics.
 [Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
 
 Lizbeth Garcia Lebron (Creator) 
+
+Proyects from the week September 21, 2022 - September 23, 2022.
