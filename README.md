@@ -15,6 +15,8 @@ This resouces are from the folder basics.
 
 [Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
 
+[Pushing commits to a remote reposiroty](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
+
 Lizbeth Garcia Lebron (Creator) 
 
 Proyects from the week September 21, 2022 - September 23, 2022.
