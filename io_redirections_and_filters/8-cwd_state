@@ -1,2 +1,2 @@
 #!/bin/bash
-var=$(ls -la) | echo "$" > ls_cwd_content      
+var=$(ls -la) | echo "$var" > ls_cwd_content      
