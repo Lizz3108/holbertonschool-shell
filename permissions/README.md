@@ -1,3 +1,4 @@
+![Shell permission example](https://linuxcommand.org/images/file_permissions.png)
 # Shell, permissions
 
 Task 0 **[su betty]** Create a script that switches the current user to the user betty. 
