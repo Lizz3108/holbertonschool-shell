@@ -1,4 +1,5 @@
-# holbertonschool-shell
+![Shell scripting logo](https://www.profesionalreview.com/wp-content/uploads/2017/03/Shell-Script-Linux-1280x720.png)
+# Holberton School Shell
 This repository is was created with education purpose. The content of the directory is based on shell command and a brief explanation. 
 
 ### Table of Content
