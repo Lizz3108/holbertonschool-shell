@@ -1,3 +1,4 @@
+![Shell Cheat Sheet](https://miro.medium.com/max/720/1*F20fM4cjs0LqvbaZ8BN2oA.jpeg)
 # Shell, init files, variables and expansions
 Each file here is a script that execute a basuc command from the shell. 
 * Task 0 Create a script that creates an alias. alias  ls="rm *"
