@@ -1,3 +1,4 @@
+![Shell Image](https://user-images.githubusercontent.com/96942307/193331063-53f07ea7-c795-485b-9121-9cef66f278a2.png)
 # Shell Basic Commands
 Each file here is a script that execute a basic command from the shell. 
 * Task 0 Print current working directory **pwd**
