@@ -49,4 +49,5 @@ This resources are from the folder init, variable and expansions:
 Lizbeth Garcia Lebron (Creator) 
 
 Proyects from the week September 20, 2022 - September 23, 2022 (BASIC)
+
 Proyects from the week September 26, 2022 - September 30, 2022 (Shell permissions, I/O Redirections and filters, Init files variables and expansions)
