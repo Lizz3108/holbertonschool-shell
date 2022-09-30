@@ -35,6 +35,11 @@ This resources are from the folder permissions.
 
 [Changing file ownership](https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joat0/index.html)
 
+This resources are from the folder init, variable and expansions.
+
+[Rot 13](https://wiki.linuxquestions.org/wiki/Rot13)
+
+
 Lizbeth Garcia Lebron (Creator) 
 
 Proyects from the week September 20, 2022 - September 23, 2022 (BASIC)
