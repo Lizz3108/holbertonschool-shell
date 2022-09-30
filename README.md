@@ -40,6 +40,7 @@ This resources are from the folder I/O redirections and filter:
 
 [How to Display Specific Lines of a File in Linux Command Line](https://linuxhandbook.com/display-specific-lines/)
 
+
 This resources are from the folder init, variable and expansions:
 
 [Rot 13](https://wiki.linuxquestions.org/wiki/Rot13)
