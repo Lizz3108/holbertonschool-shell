@@ -33,4 +33,4 @@
 
 Lizbeth Garcia Lebron (Creator)
 
-Proyects from the week September 26,2022 - September 30, 2022
+Proyects from the week September 26, 2022 - September 30, 2022
