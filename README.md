@@ -14,7 +14,7 @@ This repository is was created with education purpose. The content of the direct
     (Init files) A shell initialization file is a shell script that runs automatically each time the shell executes. The initialization file sets up the "work enviorment" and "customizes" the shell enviorment for the user.
 
 #### Resources:
-This resouces are from the folder basics.
+This resouces are from the folder basics:
 
 [What Is "The Shell"?](http://linuxcommand.org/lc3_lts0010.php)
 
@@ -27,7 +27,7 @@ This resouces are from the folder basics.
 [Pushing commits to a remote repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 
 
-This resources are from the folder permissions.
+This resources are from the folder permissions:
 
 [How to change the owner of a file](https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joat2/index.html)
 
@@ -35,7 +35,12 @@ This resources are from the folder permissions.
 
 [Changing file ownership](https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joat0/index.html)
 
-This resources are from the folder init, variable and expansions.
+
+This resources are from the folder I/O redirections and filter:
+
+[How to Display Specific Lines of a File in Linux Command Line](https://linuxhandbook.com/display-specific-lines/)
+
+This resources are from the folder init, variable and expansions:
 
 [Rot 13](https://wiki.linuxquestions.org/wiki/Rot13)
 
